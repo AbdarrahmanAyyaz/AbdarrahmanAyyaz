@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Maintaining the accuracy and relevance of retrieved information in a given LLM.**
 
-- 👨‍💻 All of my projects are available at *[My Website](https://abdarrahman.dev)
+- 👨‍💻 All of my projects are available at [My Website](https://abdarrahman.dev)
 
 
 - 📫 How to reach me **abdarrahmanayyaz00@gmail.com**
